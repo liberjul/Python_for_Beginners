@@ -33,3 +33,4 @@ Click on the notebook links to run them in Google Colab:
 
 - [Exercise 1 - Variables and Types](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_01_Variables_Types.ipynb)
 - [Exercise 2 - Structures and Functions](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_02_Structures_Functions.ipynb)
+- [Exercise 3 - Control Structures](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_03_Control_Structures.ipynb)
