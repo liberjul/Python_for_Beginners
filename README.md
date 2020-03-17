@@ -44,3 +44,4 @@ Click on the notebook links to run them in Google Colab:
 - [Exercise 2 - Structures and Functions](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_02_Structures_Functions.ipynb)
 - [Exercise 3 - Control Structures](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_03_Control_Structures.ipynb)
 - [Exercise 4 - Input/Output](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_04_Input_Output.ipynb)
+- [Exercise 5 - Plotting](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_05_Plotting.ipynb)
