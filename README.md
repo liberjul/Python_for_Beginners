@@ -36,6 +36,12 @@ Now run this: `jupyter lab`
 
 Now you can navigate to the Python_for_Beginners directory and run the notebooks in the Exercises directory.
 
+If any package fails to import, you may want to look up the packages install directions. Generally, one of these commands will work when run on the command line (terminal or command prompt):
+
+```
+pip install <packagename>
+conda install <packagename>
+```
 ### If you don't want to install anything (This is recommended only as a temporary measure).
 
 Click on the notebook links to run them in Google Colab:
@@ -45,3 +51,4 @@ Click on the notebook links to run them in Google Colab:
 - [Exercise 3 - Control Structures](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_03_Control_Structures.ipynb)
 - [Exercise 4 - Input/Output](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_04_Input_Output.ipynb)
 - [Exercise 5 - Plotting](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_05_Plotting.ipynb)
+- [Exercise 6 - Machine Learning 1](https://colab.research.google.com/github/liberjul/Python_for_Beginners/blob/master/Exercises/Exercise_06_ML1.ipynb)
